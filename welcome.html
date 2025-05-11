@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bem-vindo</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h2 id="mensagem"></h2>
+    <button onclick="window.location.href='profile.html'">Ver Perfil</button>
+  </div>
+
+  <script>
+    const nome = localStorage.getItem("userNome");
+    document.getElementById("mensagem").textContent = `Bem-vindo(a), ${nome}!`;
+  </script>
+</body>
+</html>

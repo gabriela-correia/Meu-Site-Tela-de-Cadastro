@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cadastro Interativo</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <form id="formCadastro" class="form animated">
+      <h2>Crie sua Conta</h2>
+      <label for="avatar" class="avatar-upload">
+        <img src="Captura de tela 2025-05-06 173525.jpg" id="preview" alt="Avatar" />
+        <input type="file" id="avatar" accept="image/*" hidden />
+      </label>
+
+      <input type="text" id="nome" placeholder="Nome completo" required />
+      <input type="email" id="email" placeholder="E-mail" required />
+      <input type="password" id="senha" placeholder="Senha" required />
+      <button type="submit">Cadastrar</button>
+    </form>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
