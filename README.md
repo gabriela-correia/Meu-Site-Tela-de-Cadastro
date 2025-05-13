@@ -17,22 +17,23 @@ Este projeto consiste em um site moderno e funcional voltado para o cadastro de 
 
 ## ✨ Funcionalidades
 
-* ## 📸 Upload de imagem de perfil (avatar)
+* 📸 Upload de imagem de perfil (avatar)
 O usuário pode selecionar e visualizar sua imagem de perfil antes de concluir o cadastro.
 
-📝 Cadastro com validação de campos obrigatórios
+* 📝 Cadastro com validação de campos obrigatórios
 Nome, e-mail e senha são obrigatórios e garantem integridade dos dados.
 
-🎉 Mensagem de boas-vindas personalizada
+* 🎉 Mensagem de boas-vindas personalizada
 Após o cadastro, o usuário recebe uma saudação dinâmica com seu nome salvo no localStorage.
 
-📱 Interface responsiva e moderna
+* 📱 Interface responsiva e moderna
 Perfeita para qualquer dispositivo, do desktop ao smartphone.
 
-👤 Página de perfil personalizada
+* 👤 Página de perfil personalizada
 Exibe informações do usuário e sua imagem, com opção de voltar para a página inicial.
 
 
 ---
 
-🔗 Acesse o Projeto
+## 🔗 Acesse o Projeto
+
