@@ -3,7 +3,7 @@ Este projeto consiste em um site moderno e funcional voltado para o cadastro de 
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas:
 
 * HTML5: Estrutura semântica da página
 
@@ -15,7 +15,7 @@ Este projeto consiste em um site moderno e funcional voltado para o cadastro de 
 
 ---
 
-## ✨ Funcionalidades
+## ✨ Funcionalidades:
 
 * 📸 Upload de imagem de perfil (avatar)
 O usuário pode selecionar e visualizar sua imagem de perfil antes de concluir o cadastro.
@@ -35,5 +35,6 @@ Exibe informações do usuário e sua imagem, com opção de voltar para a pági
 
 ---
 
-## 🔗 Acesse o Projeto
+## 🔗 Acesse o Projeto:
+Você pode visualizar o projeto publicado pelo GitHub Pages neste link:
 
