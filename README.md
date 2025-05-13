@@ -36,5 +36,5 @@ Exibe informações do usuário e sua imagem, com opção de voltar para a pági
 ---
 
 ## 🔗 Acesse o Projeto:
-Você pode visualizar o projeto publicado pelo GitHub Pages neste link:
+Você pode visualizar o projeto publicado pelo GitHub Pages neste link: https://gabriela-correia.github.io/Meu-Site-Tela-de-Cadastro/
 
